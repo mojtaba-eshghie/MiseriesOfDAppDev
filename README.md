@@ -13,4 +13,3 @@ First get rid of any pre-installed standalone solc compiler. Add the solc-select
     # now you can confirm that previous commands have been effective by issuing:
     solc --version
     
-    
